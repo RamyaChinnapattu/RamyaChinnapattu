@@ -114,32 +114,14 @@ Extended an open-source AI resume analyzer into a career guidance platform.
 - Integrated AI capabilities, authentication, storage, and external services.
 
 <p>
-  <a href="https://github.com/RamyaChinnapattu?tab=repositories">
+  <a href="https://github.com/RamyaChinnapattu/CareerNavigate1">
     <img src="https://img.shields.io/badge/Find_CareerNavigate_Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Find CareerNavigate repository"/>
   </a>
 </p>
 
 *CareerNavigate is based on an open-source project. Update the link above to its specific repository when available.*
 
-## 📊 GitHub Statistics
 
-<div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=RamyaChinnapattu&show_icons=true&hide_border=true&rank_icon=github" height="165" alt="GitHub statistics"/>
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RamyaChinnapattu&layout=compact&hide_border=true" height="165" alt="Most used languages"/>
-
-  <img src="https://streak-stats.demolab.com?user=RamyaChinnapattu&hide_border=true" height="165" alt="GitHub contribution streak"/>
-
-</div>
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RamyaChinnapattu&hide_border=true" width="100%" alt="GitHub contribution activity graph"/>
-
-</div>
 
 ## 🤝 Connect With Me
 

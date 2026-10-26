@@ -1,111 +1,164 @@
-# Ramya
 
-<!--
-  GitHub Profile README
-  Username: RamyaChinnapattu
--->
+<!-- GitHub Profile README | Ramya Chinnapattu -->
 
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=140&color=gradient&text=Ramya%20Chinnapattu&fontSize=38&fontColor=ffffff&fontAlignY=55&desc=Java%20Backend%20Developer%20%7C%20Software%20Engineer&descAlignY=78&descSize=16" width="100%" alt="Ramya Chinnapattu - Java Backend Developer" />
-
-  <br/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=150&color=gradient&text=Ramya%20Chinnapattu&fontSize=38&fontColor=ffffff&fontAlignY=45&desc=Aspiring%20Software%20Engineer&descAlignY=72&descSize=17" width="100%" alt="Ramya Chinnapattu - Software Engineer" />
 
   <p>
     <a href="https://github.com/RamyaChinnapattu">
-      <img src="https://img.shields.io/badge/GitHub-RamyaChinnapattu-24292e?style=flat-square&logo=github" alt="GitHub profile"/>
+      <img src="https://img.shields.io/badge/GitHub-RamyaChinnapattu-181717?style=flat-square&logo=github" alt="GitHub"/>
     </a>
-    <img src="https://img.shields.io/badge/Focus-Java%20Backend-4479A1?style=flat-square" alt="Java backend focus"/>
-    <img src="https://img.shields.io/badge/Open%20to-Learning%20%26%20Building-2E8B57?style=flat-square" alt="Learning and building"/>
+    <img src="https://img.shields.io/badge/Java-Backend%20Development-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java Backend Development"/>
+    <img src="https://img.shields.io/badge/Focus-Software%20Development-2E8B57?style=flat-square" alt="Software Development"/>
   </p>
 
-  <p>
-    <em>Building practical applications, one project at a time.</em>
-  </p>
+  <p><em>Learning, building, and growing as a software engineer.</em></p>
 
 </div>
 
 ---
 
-## About Me
+## 👩‍💻 About Me
 
-Hello! I'm **Ramya Chinnapattu**, a final-year Computer Science Engineering student interested in Java backend development and software engineering.
+Hello! I'm **Ramya Chinnapattu**, a final-year B.Tech Computer Science and Engineering student from Nellore, Andhra Pradesh, India.
 
-- 🎓 Pursuing B.Tech in Computer Science Engineering
-- ☕ Interested in Java, object-oriented programming, and backend development
-- 🛠️ Exploring Spring Boot, REST APIs, SQL, and web technologies
-- 🌱 Improving my problem-solving and software development skills
-- 🎯 Working towards a career as a software engineer
+- 🎓 Final-year Computer Science and Engineering student
+- 💻 Interested in software engineering and full-stack development
+- ☕ Working with Java, Spring Boot, and REST APIs
+- 🌐 Experienced in frontend development with React.js
+- 🚀 Built projects in campus management and AI-powered career guidance
+- 🌱 Continuously improving my programming and problem-solving skills
 
-## Technical Skills
+## 🛠️ Technical Skills
 
 **Languages**
 
 <p>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" alt="C"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=databricks&logoColor=white" alt="SQL"/>
+</p>
+
+**Frontend Development**
+
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React.js"/>
 </p>
 
 **Backend and Database**
 
 <p>
-  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot"/>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot"/>
+  <img src="https://img.shields.io/badge/Spring_MVC-6DB33F?style=flat-square&logo=spring&logoColor=white" alt="Spring MVC"/>
+  <img src="https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=flat-square&logo=spring&logoColor=white" alt="Spring Data JPA"/>
+  <img src="https://img.shields.io/badge/REST_APIs-2F6F9F?style=flat-square" alt="REST APIs"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/REST%20APIs-2F6F9F?style=flat-square" alt="REST APIs"/>
 </p>
 
-**Web Development and Tools**
+**Tools**
 
 <p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code"/>
+  <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=eclipseide&logoColor=white" alt="Eclipse"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman"/>
+  <img src="https://img.shields.io/badge/IntelliJ IDEA-FF6C37?style=flat-square&logo=intelliJ&logoColor=white" alt="IntelliJ IDEA"/>
+  <img src="https://shields.io" alt="IntelliJ IDEA"/>
+
 </p>
 
-## Featured Projects
+## 💼 Experience
 
-### Smart Campus Management System
-A campus management application built using Java and Spring Boot technologies.
+**Frontend Developer Intern — PearlThoughts**
 
-- **Tech:** Java, Spring Boot, Spring MVC, Spring Data JPA, Thymeleaf, Bootstrap, MySQL
-- **Features:** Student and faculty management, attendance, marks, notifications, and role-based login
-- **Repository:** [View source code](https://github.com/RamyaChinnapattu/smart_campus_main)
+*Remote | July 2025 – August 2025*
 
-### More Projects
+- Contributed to doctor and patient login interfaces using frontend technologies and mock data.
+- Worked on integrating and updating login-page components.
+- Used Git and GitHub for version control and collaborative development.
 
-Explore my repositories for additional web development projects and experiments.
+## 🚀 Featured Projects
 
-- [Browse all repositories](https://github.com/RamyaChinnapattu?tab=repositories)
+### 1. Smart Campus Management System
 
-## GitHub Statistics
+**Java · Spring Boot · Spring MVC · Spring Data JPA · MySQL · Thymeleaf · Bootstrap**
+
+Developed a campus management application supporting Admin, Faculty, and Student workflows.
+
+- Implemented student and faculty management, attendance, marks, and notifications.
+- Developed CRUD operations and REST APIs with MySQL persistence.
+- Implemented authentication, session validation, and role-based authorization.
+- Built server-rendered interfaces using Thymeleaf and Bootstrap.
+
+<p>
+  <a href="https://github.com/RamyaChinnapattu/smart_campus_main">
+    <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Smart Campus project"/>
+  </a>
+</p>
+
+### 2. CareerNavigate — AI-Powered Career Guidance
+
+**React · TypeScript · JavaScript · Tailwind CSS · Puter.js**
+
+Extended an open-source AI resume analyzer into a career guidance platform.
+
+- Implemented resume analysis features, including ATS scoring and content review.
+- Added skill-gap analysis, career-path suggestions, and job recommendations.
+- Developed personalized learning roadmaps.
+- Built a resume and cover-letter builder with live preview and PDF export.
+- Integrated AI capabilities, authentication, storage, and external services.
+
+<p>
+  <a href="https://github.com/RamyaChinnapattu?tab=repositories">
+    <img src="https://img.shields.io/badge/Find_CareerNavigate_Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Find CareerNavigate repository"/>
+  </a>
+</p>
+
+*CareerNavigate is based on an open-source project. Update the link above to its specific repository when available.*
+
+## 📊 GitHub Statistics
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=RamyaChinnapattu&show_icons=true&hide_border=true&rank_icon=github&theme=default" height="165" alt="GitHub profile statistics"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=RamyaChinnapattu&show_icons=true&hide_border=true&rank_icon=github" height="165" alt="GitHub statistics"/>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RamyaChinnapattu&layout=compact&hide_border=true&theme=default" height="165" alt="Most used programming languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RamyaChinnapattu&layout=compact&hide_border=true" height="165" alt="Most used languages"/>
+
+  <img src="https://streak-stats.demolab.com?user=RamyaChinnapattu&hide_border=true" height="165" alt="GitHub contribution streak"/>
 
 </div>
+
+## 📈 Contribution Activity
 
 <div align="center">
 
-  <img src="https://streak-stats.demolab.com?user=RamyaChinnapattu&theme=default&hide_border=true" height="165" alt="GitHub contribution streak"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RamyaChinnapattu&hide_border=true" width="100%" alt="GitHub contribution activity graph"/>
 
 </div>
+
+## 🤝 Connect With Me
+
+<p>
+  <a href="https://linkedin.com/in/ramya28">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:ramyachinnapattu@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://github.com/RamyaChinnapattu">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
 
 ---
 
 <div align="center">
 
-  **Thanks for visiting my profile!**
-
-  <br/>
-
-  <a href="https://github.com/RamyaChinnapattu">
-    <img src="https://img.shields.io/badge/Explore%20my%20repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories"/>
-  </a>
+  <em>Thanks for visiting my profile! ⭐</em>
 
 </div>

@@ -68,7 +68,7 @@ Hello! I'm **Ramya Chinnapattu**, a final-year B.Tech Computer Science and Engin
   <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=eclipseide&logoColor=white" alt="Eclipse"/>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman"/>
   <img src="https://img.shields.io/badge/IntelliJ IDEA-FF6C37?style=flat-square&logo=intelliJ&logoColor=white" alt="IntelliJ IDEA"/>
-  <img src="https://shields.io" alt="IntelliJ IDEA"/>
+ 
 
 </p>
 

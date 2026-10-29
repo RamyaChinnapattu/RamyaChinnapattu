@@ -82,6 +82,14 @@ Hello! I'm **Ramya Chinnapattu**, a final-year B.Tech Computer Science and Engin
 - Worked on integrating and updating login-page components.
 - Used Git and GitHub for version control and collaborative development.
 
+**Infosys Springboard Virtual Internship 7.0**
+*October 2026 – Present-Java Tech Stack Intern Virtual*
+– Developing a Government Grant/Subsidy Disbursement Tracking System using Java and Spring Boot as part of the
+virtual internship.
+– Implemented basic create and list APIs for beneficiary management and scheme master data, along with application
+submission functionality.
+– Implemented rule-based eligibility checks and scoring, with initial verification routing and application status selection.
+
 ## 🚀 Featured Projects
 
 ### 1. Smart Campus Management System
@@ -119,7 +127,7 @@ Extended an open-source AI resume analyzer into a career guidance platform.
   </a>
 </p>
 
-*CareerNavigate is based on an open-source project. Update the link above to its specific repository when available.*
+
 
 
 
